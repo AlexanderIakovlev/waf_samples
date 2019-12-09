@@ -28,7 +28,7 @@ gimme-aws-creds==1.1.4
 idna==2.8
 isort==4.3.4
 itsdangerous==1.1.0
-Jinja2==2.10
+Jinja2>=2.10.1
 jira==2.0.0
 jmespath==0.9.3
 jsonpatch==1.23
