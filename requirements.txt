@@ -57,7 +57,7 @@ PyJWT==1.7.1
 pylint==2.1.1
 pytest==4.0.0
 python-dateutil==2.7.3
-PyYAML==3.13
+PyYAML==5.1
 rdspg==0.1.9
 requests==2.21.0
 requests-oauthlib==1.2.0
