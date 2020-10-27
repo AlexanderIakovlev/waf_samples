@@ -19,7 +19,7 @@ Click==7.0
 colorama==0.3.9
 configobj==5.0.6
 configparser==3.7.1
-cryptography==2.4.2
+cryptography==3.2
 defusedxml==0.5.0
 docutils==0.14
 Flask==1.0.2
